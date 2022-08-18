@@ -15,4 +15,4 @@ Here are the simple steps that you can follow to use a template:
 * Start talking to the bot in terminal with command `rasa shell`
 
 ### Important
-Being boilerplates, the bots does contain minimal training data for `stories` just enough to structure the conversation skeleton. Please don't forget to improve the conversations with `rasa interactive` command.
+Please don't forget to improve the conversations with `rasa interactive` command.
